@@ -1,4 +1,4 @@
-這是說明練習1
+﻿這是說明練習1
 第二行
 3 c test+add
 4
@@ -7,3 +7,5 @@ git remote add origin https://github.com/hann99/try_vsc.git
 git pull origin master
 
 git config --global credential.helper wincred
+10
+11
