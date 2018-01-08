@@ -1,3 +1,9 @@
 這是說明練習1
 第二行
-3 c test
+3 c test+add
+4
+5 在win上的輸入中文
+git remote add origin https://github.com/hann99/try_vsc.git
+git pull origin master
+
+git config --global credential.helper wincred
