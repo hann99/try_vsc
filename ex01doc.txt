@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿這是說明練習1
 第二行
 3 c test+add
@@ -9,3 +10,10 @@ git pull origin master
 git config --global credential.helper wincred
 10
 11
+=======
+這是說明練習1
+第二行
+3 c test+add
+4
+5 在win上的輸入中文
+>>>>>>> 58163f2b4df4efef027d9fde5d4c17dac60c93e0
